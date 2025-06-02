@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exciting exploration of the world of technology and found passion in the realm of front-end web development, particularly with React. However, not limited to just one tool’s, also proficient in native programming languages. Now I am doing an internship at Telkom Indonesia as Full-stack Developer.<br>In the realm of Web Programming, like to create user-friendly and visually appealing web experiences. Also constantly seeking new challenges and opportunities to expand knowledge and skills.
+Exciting exploration of the world of technology and found passion in the realm of front-end web development, particularly with React. In the realm of Web Programming, like to create user-friendly and visually appealing web experiences. Also constantly seeking new challenges and opportunities to expand knowledge and skills.
 
 
 ## 🌐 Socials:
