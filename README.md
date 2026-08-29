@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 data-importer="text" align="left">💫 About Me:<br><br>Passionate about technology and software development. Currently expanding my expertise beyond development into system architecture and AI-powered solutions. I’m always eager to explore new technologies, solve complex problems, and continuously improve my technical and problem-solving skills.</h4>
+<h2 data-importer="text" align="left">💫 About Me:<br><br>Passionate about technology and software development. Currently expanding my expertise beyond development into system architecture and AI-powered solutions. I’m always eager to explore new technologies, solve complex problems, and continuously improve my technical and problem-solving skills.</h2>
 
 ###
 
