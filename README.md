@@ -1,11 +1,11 @@
 <br clear="both">
 
-<h3 data-importer="text" align="left">💫 About Me:<br><br>Passionate about technology and software development. Currently expanding my expertise beyond development into system architecture and AI-powered solutions. I’m always eager to explore new technologies, solve complex problems, and continuously improve my technical and problem-solving skills.</h3>
+<h4 data-importer="text" align="left">💫 About Me:<br><br>Passionate about technology and software development. Currently expanding my expertise beyond development into system architecture and AI-powered solutions. I’m always eager to explore new technologies, solve complex problems, and continuously improve my technical and problem-solving skills.</h4>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/zakifauzanr/zakifauzanr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- <img src="https://raw.githubusercontent.com/zakifauzanr/zakifauzanr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://raw.githubusercontent.com/zakifauzanr/zakifauzanr/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
